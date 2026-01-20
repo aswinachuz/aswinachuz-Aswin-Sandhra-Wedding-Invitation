@@ -1,0 +1,21 @@
+.floating-audio {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+
+  width: 280px;
+  height: 40px;
+
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  background: #fff;
+}
+
+@media (max-width: 600px) {
+  .floating-audio {
+    width: 220px;
+    bottom: 12px;
+    right: 12px;
+  }
+}
