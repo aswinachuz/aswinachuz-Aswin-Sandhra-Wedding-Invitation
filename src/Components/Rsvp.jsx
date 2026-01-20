@@ -96,7 +96,7 @@ export default function RSVP() {
               disabled={submitting}
               className="btn-primary w-full md:w-auto"
             >
-              {submitting ? "Sending..." : "Submit RSVP"}
+              {submitting ? "Sending..." : "Submit"}
             </button>
           </div>
         </form>
