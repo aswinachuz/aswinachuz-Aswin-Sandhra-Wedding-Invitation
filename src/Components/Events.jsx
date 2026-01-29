@@ -10,7 +10,7 @@ export default function Events() {
               Wedding Ceremony
             </h3>
             <p className="text-gray-600 mb-1">April 04, 2026</p>
-            <p className="text-gray-600 mb-4">10:30 AM - 11:30 AM</p>
+            <p className="text-gray-600 mb-4">09:30 AM - 10:30 AM</p>
             <p className="font-semibold text-gray-700">Palakkeezh Bhagavathy Temple</p>
             <p className="text-gray-500 mt-2">
               <a href="https://maps.app.goo.gl/Vum2fm6WWMR7bGRy8" target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,7 @@ export default function Events() {
               The Reception
             </h3>
             <p className="text-gray-600 mb-1">Saturday, April 04, 2026</p>
-            <p className="text-gray-600 mb-4">4:30 PM - 8:30 PM</p>
+            <p className="text-gray-600 mb-4">5:00 PM - 8:00 PM</p>
             <p className="font-semibold text-gray-700">Galaxy Auditorium Athicode</p>
             <p className="text-gray-500 mt-2">
               <a href="https://maps.app.goo.gl/86xYcWY2AcAzFCbS7" target="_blank" rel="noopener noreferrer">
