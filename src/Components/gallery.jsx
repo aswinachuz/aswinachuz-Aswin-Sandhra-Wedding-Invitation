@@ -6,7 +6,7 @@ const images = [
     "/3.JPG"
 ];
 
-const imageLabels = ["The Proposal", "Our First Trip", "Beach Days"];
+const imageLabels = ["", "", ""];
 
 export default function Gallery() {
   const [active, setActive] = useState(null);
