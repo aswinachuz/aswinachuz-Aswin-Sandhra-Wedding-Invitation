@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import VideoOpener from "./Components/Videoopener";
 import MusicPlayer from "./Components/musicplayer";
 import CustomCursor from "./Components/Customcursor";
@@ -28,6 +29,7 @@ export default function App() {
 
   return (
     <>
+      <Analytics />
       <CustomCursor />
 
       {!opened && <VideoOpener onOpen={() => setOpened(true)} />}
